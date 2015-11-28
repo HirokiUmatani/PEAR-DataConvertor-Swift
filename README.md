@@ -8,7 +8,7 @@ NSData interconversion
 platform :ios, '8.0'  
 use_frameworks!  
 target 'YOUR_PROJECT_NAME' do  
-pod "PEAR_DataConvertor_Swift"  
+pod "PEAR-DataConvertor-Swift"  
 end
 ```
 
