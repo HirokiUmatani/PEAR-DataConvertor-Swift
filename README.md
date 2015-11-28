@@ -17,7 +17,7 @@ end
 #### □ Import
 
 ```
-import PEAR-DataConvertor-Swift
+import PEAR_DataConvertor_Swift
 ```
 
 #### □ data < = > string
